@@ -3,7 +3,7 @@ import React from 'react'
 
 const Items = () => {
   return (
-    <Box width="100%" height="100px" >
+    <Box width="100%" height="100px" backgroundColor="white" >
         <h2>Best selling Items</h2>
         <Box display="grid" gridTemplateColumns="repeat(4,1fr)" backgroundColor="white">
         <Box>vegetables</Box>
